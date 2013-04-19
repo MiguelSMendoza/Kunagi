@@ -1,0 +1,3 @@
+# Module scrum.ScrumGwtApplication
+# RPC service class, partial path of RPC policy file
+scrum.client.ScrumService, A281E9FF0C22181DE4E85C285AA880E0.gwt.rpc

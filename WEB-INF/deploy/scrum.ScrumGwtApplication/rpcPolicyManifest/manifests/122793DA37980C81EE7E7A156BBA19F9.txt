@@ -1,0 +1,2 @@
+serviceClass: scrum.client.ScrumService
+path: A281E9FF0C22181DE4E85C285AA880E0.gwt.rpc
